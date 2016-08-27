@@ -1,0 +1,6 @@
+{
+  "name": "Zeromehublist",
+  "tagline": "A list of ZeroMe hubs.",
+  "body": "A list of ZeroMe hubs.\r\n\r\nFormat\r\n------\r\n\r\n```cvs\r\nHubName,HubAddress\r\n```\r\n\r\nContribute\r\n----------\r\n\r\nSend issue and pull-request at <https://github.com/weakish/ZeroMeHubList>\r\n\r\nProjects\r\n--------\r\n\r\nProjects using this list:\r\n\r\n- Send a pull request to add your project.\r\n\r\nLicense\r\n-------\r\n\r\nI think a list of ZeroMe hubs is uncopyrightable,\r\nsince facts and data can not be copyrighted.\r\nIf a comma separated file is considered as a presentation of data,\r\nthen it is dedicated into public domain.\r\nIf legal systems prohibit any attempt by authors to dedicate their work to public domain,\r\nthen the work is licensed under 0BSD (see LICENSE).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
