@@ -3,9 +3,7 @@ A list of ZeroMe hubs.
 Format
 ------
 
-```cvs
-HubName,HubAddress
-```
+CVS
 
 Contribute
 ----------
