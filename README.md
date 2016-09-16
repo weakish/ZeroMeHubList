@@ -3,7 +3,14 @@ A list of ZeroMe hubs.
 Format
 ------
 
-CVS
+- `zerome_hubs.csv`: `HubName,HubAddress`
+- `hub.lst`: addresses only, one address per line
+- `hub_list.json`: a Json Array of hub addresses
+
+`zerome_hubs.csv` is incomplete.
+`hub.lst` and `hub_list.json` is auto generated via [zerome-crawler].
+
+[zerome-crawler]: https://weakish.github.io/zerome-crawler
 
 Contribute
 ----------
