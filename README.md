@@ -12,6 +12,11 @@ Format
 
 [zerome-crawler]: https://weakish.github.io/zerome-crawler
 
+ZeroMe hub list on ZeroNet
+--------------------------
+
+[hi/ hub](http://127.0.0.1:43110/1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM)
+
 Contribute
 ----------
 
